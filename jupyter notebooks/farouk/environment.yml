@@ -1,0 +1,8 @@
+name: farouk
+dependencies:
+  - numpy
+  - matplotlib
+  - geopandas
+  - descartes
+  - pandas
+  - vim
