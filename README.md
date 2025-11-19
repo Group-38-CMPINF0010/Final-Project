@@ -1,4 +1,6 @@
 # Final Project — Best Neighborhood in Pittsburgh
+## Group Name: JoJo
+
 ## One-Sentence Summary
 A data-driven analysis identifying the most livable neighborhood in Pittsburgh based on housing affordability, recreational access, public facilities, and parking availability.
 
@@ -6,8 +8,6 @@ A data-driven analysis identifying the most livable neighborhood in Pittsburgh b
 Our project explores which neighborhood in Pittsburgh can be considered the **“best”** using data from the Western Pennsylvania Regional Data Center (WPRDC).  
 We define “best” as the **best for family life**.
 Unlike most of other groups that typically determine a topic before identifying relevant metrics, we began by selecting several metrics of interest and subsequently derived our topic from the similarities and relationships among them.
-
-## Group Name: JoJo
 
 ## Group Members
 - Hao Wang — haw102@pitt.edu  
