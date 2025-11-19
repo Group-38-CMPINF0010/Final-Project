@@ -19,7 +19,7 @@ Unlike most of other groups that typically determine a topic before identifying 
 - Housing value - 
 - Playgrounds - https://data.wprdc.org/dataset/playgrounds
 - City of Pittsburgh facilities - https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
-- Parking space counts and Rates
+- Parking space counts and Rates - https://data.wprdc.org/dataset/zone-and-lot-attributes
 
 ## Neighborhood Comparision and Conclusion
 
