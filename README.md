@@ -20,6 +20,4 @@ We define “best” as the **best for family life**.
 - City of Pittsburgh facilities - https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
 - Parking space counts and Rates
 
-## Presentation Slides
-[Google Slides — JoJo Team Presentation](https://docs.google.com/presentation/d/1LE-nG6QKgy3IB6yPtSVKHv3c-zg0wJukQ_GyCbNvLyE/edit?usp=sharing)
 
