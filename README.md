@@ -16,7 +16,7 @@ Unlike most of other groups that typically determine a topic before identifying 
 - Farouk Boudjemaa — fab73@pitt.edu  
 
 ## Datasets Used
-- Housing value - 
+- Housing value - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/262d10d1-1e49-41f6-bb8a-0c4511a9085c
 - Playgrounds - https://data.wprdc.org/dataset/playgrounds
 - City of Pittsburgh facilities - https://data.wprdc.org/dataset/city-of-pittsburgh-facilities
 - Parking space counts and Rates - https://data.wprdc.org/dataset/zone-and-lot-attributes
