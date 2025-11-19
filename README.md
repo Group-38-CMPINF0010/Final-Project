@@ -53,6 +53,6 @@ Unlike most of other groups that typically determine a topic before identifying 
 
 ### Conclusion
 
-Taken together, the four submetrics position **Squirrel Hill South** as the most balanced neighborhood and the "best neighborhoodfor family life" in Pittsburgh. It leads in playground access and mid-priced housing, and it stays competitive in municipal facilities. 
+Taken together, the four submetrics position **Squirrel Hill South** as the most balanced neighborhood and the "best neighborhood for family life" in Pittsburgh. It leads in playground access and mid-priced housing, and it stays competitive in municipal facilities. 
 Uptown, the Northside, and the South Side have plenty of parking, but they’re still behind when it comes to family-friendly spaces and a good mix of housing. Highland Park scores well on facilities and stays competitive, but Squirrel Hill South still offers the best overall balance for everyday living.
 
